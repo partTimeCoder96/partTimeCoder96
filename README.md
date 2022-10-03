@@ -39,4 +39,4 @@ I am React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 
-https://parttimecoder96.hashnode.dev/react-native-button-transition-animation
+https://hashnode.com/@partTimeCoder96
