@@ -12,7 +12,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=partTimeCoder96&style=flat-square&color=blue" alt=""/>
 
-I am React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m working as a Software Developer and contributing to frontend building Mobile applications.
 
@@ -21,3 +21,13 @@ I am React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I Read and write Technical blog and watch anime..
 
 - :mailbox:How to reach me: mm2406402@gmail.com
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
