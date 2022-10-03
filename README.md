@@ -11,5 +11,5 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=partTimeCoder96&style=flat-square&color=blue" alt=""/>
-### Mostly working with React {Native} & TS.
-### You can find me on other platforms @partTimeCoder96
+
+I am React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
